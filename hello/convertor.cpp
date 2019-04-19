@@ -1,5 +1,9 @@
 #include <iostream>
 #include <string.h>
+#include <cmath>
+// testing 
+// i am writing this text to see if it work//
+//ignore 
 using namespace std;
 class Number{
 private:
