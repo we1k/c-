@@ -14,7 +14,7 @@ private:
 public:
 	void show();
 	void convertor();
-	Number(int x,int y);
+	Number(int x,int y);// °¢Ë¹¶Ù 
 };
 Number::Number(int x,int y):a(x),b(y){}
 void Number::show(){
