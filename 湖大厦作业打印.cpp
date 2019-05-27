@@ -120,8 +120,7 @@ void DAPrinter::split(){
 		else if (a[i]==9) {DotArray* X = new DA9;das[i++] = X;}
 		tep=tep/10;
 	}//i ÎªÎ»Êý
-	w = i;
-//	cout<<"fuck"<<i<<endl; 
+	w = i; 
 //	das[1]->showrow(1);
 //	cout<<w<<endl;
 //	cout<<w-1<<endl;
